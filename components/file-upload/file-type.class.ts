@@ -100,6 +100,7 @@ export class FileType {
       'cdp': 'image',
       'skp': 'image',
       'stp': 'image',
+      'gif': 'image',
       '3dm': 'image',
       'mp3': 'audio',
       'wav': 'audio',
